@@ -7,9 +7,11 @@ The first part of the application finds the shortest path between all pairs of t
 ## Compilation and Running
 
 Compile the program by the command g++ ShortestPath.cpp 
+
 Run the program by the command ./a.out ../resources/filename.obj
 
 Compile the second program by the command g++ Navigation.cpp -lglut -lGLU
+
 Run the program by the command ./a.out
 
 Sample Input :
