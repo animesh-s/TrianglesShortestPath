@@ -1,0 +1,30 @@
+newmtl RED
+Kd  1.0000  0.0000  0.0000
+
+newmtl GREEN
+Kd  0.0000  1.0000  0.0000
+
+newmtl BLUE
+Kd  0.0000  0.0000  1.0000
+
+newmtl YELLOW
+Kd  1.0000  1.0000  0.0000
+newmtl ORANGE
+Kd  1.0000  0.6470  0.0000
+newmtl BROWN
+Kd  0.6470  0.1647  0.1647
+
+newmtl GRAY
+Kd  0.5019  0.5019  0.5019
+
+newmtl OLIVE
+Kd  0.5019  0.5019  0.0000
+
+newmtl BEET
+Kd  0.5568  0.2196  0.5568
+newmtl WHEAT
+Kd  0.8039  0.7294  0.5882
+newmtl CYAN
+Kd  0.0000  0.9333  0.9333
+newmtl MAROON
+Kd  0.5019  0.0000  0.0000
